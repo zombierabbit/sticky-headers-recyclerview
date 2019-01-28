@@ -1,1 +1,1 @@
-include ':sample', ':library'
+include ':sticky-headers-recycleview', ':library'
